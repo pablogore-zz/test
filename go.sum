@@ -1,0 +1,4 @@
+github.com/bradfitz/iter v0.0.0-20140124041915-454541ec3da2 h1:1B/+1BcRhOMG1KH/YhNIU8OppSWk5d/NGyfRla88CuY=
+github.com/bradfitz/iter v0.0.0-20140124041915-454541ec3da2/go.mod h1:PyRFw1Lt2wKX4ZVSQ2mk+PeDa1rxyObEDlApuIsUKuo=
+github.com/cavaliercoder/grab v2.0.0+incompatible h1:jhwFpvmBmIcAIl3E5NRydeVAvteKYN9bQTiT5m0xP3U=
+github.com/cavaliercoder/grab v2.0.0+incompatible/go.mod h1:tTBkfNqSBfuMmMBFaO2phgyhdYhiZQ/+iXCZDzcDsMI=
